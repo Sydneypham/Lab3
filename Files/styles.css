@@ -1,0 +1,44 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+  }
+  html{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+  }
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #d0d0d0;
+  }
+
+ body{
+    background-color: #FFFAE2;
+ }
+
+ h1{
+    color: #EADDA6;
+ }
+
+ td{
+    color: #000000;
+ }
+
+ nav{
+   background-color: #92977E;
+   font-size: 20px;
+   text-align: center;
+   padding: 10px;
+   border-radius: 10px;
+   border-color: black;
+   border-style: solid;
+   border-width: 2px;
+   margin: 5%;
+ }
